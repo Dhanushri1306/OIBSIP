@@ -1,6 +1,6 @@
 # House Price Prediction
 
-Oasis Infobyte Data Analytics Internship – Level 1
+Oasis Infobyte Data Analytics Internship – Level 2
 
 ## Project Overview
 
